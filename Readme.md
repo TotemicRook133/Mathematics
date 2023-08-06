@@ -8,29 +8,38 @@ This repository contains various Python scripts and associated image files relat
 2. ![collatz conjecture](collatz.png)
 
 3. `eAix.py`: This script performs some calculations related to the mathematical constant "e" raised to the power of "i * x," where "i" is the imaginary unit and "x" is a real number.
-4. ![e^ix](e^ix.png)
+4. ![e^ix](e^ix.gif)
 
 5. `eigen.py`: This script deals with eigenvalues and eigenvectors of matrices. It computes the eigenvalues and eigenvectors of a given matrix.
+6. ![eigen](eigen.png)
 
-6. `euler.py`: This script contains implementations of various algorithms related to Euler's number and Euler's formula.
+7. `euler.py`: This script contains implementations of various algorithms related to Euler's number and Euler's formula.
+8. ![euler](euler.png)
 
-7. `fermattheorem.py`: The script explores Fermat's Last Theorem, which states that no three positive integers a, b, and c can satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2.
+9. `fermattheorem.py`: The script explores Fermat's Last Theorem, which states that no three positive integers a, b, and c can satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2.
+10. ![Fermat's Theorem](fermattheorem.png)
 
-8. `gcd.py`: This script calculates the Greatest Common Divisor (GCD) of two integers using the Euclidean algorithm.
+11. `gcd.py`: This script calculates the Greatest Common Divisor (GCD) of two integers using the Euclidean algorithm.
+12. ![GCD](gcd.png)
 
-9. `maxi.py`: This script provides functions to find the maximum element in a list of numbers.
+13. `maxi.py`: This script provides the graph for Maxwell's equation and Gauss Theorem.
+14. ![Maxwell's equation](maxwell_gauss.png)
 
-10. `prime.py`: The script includes functions to check whether a given number is prime or not.
+15. `prime.py`: The script includes graph to show prime numbers.
+16. ![Prime](prime.png)
 
-11. `primefacto.py`: This script finds the prime factors of a given number.
+17. `primefacto.py`: This script finds the prime factors of a given number.
+18. ![primefactorization](primefacto.png)
 
-12. `pytha.py`: The script deals with the Pythagorean theorem and contains functions to calculate the length of the hypotenuse or one of the other two sides of a right-angled triangle.
+19. `pytha.py`: The script deals with the Pythagorean theorem and contains functions to calculate the length of the hypotenuse or one of the other two sides of a right-angled triangle.
+20. ![Pythagoras Theorem](pythagoras.png)
 
-13. `riemann.py`: This script relates to the Riemann hypothesis, one of the most famous unsolved problems in mathematics, and contains functions to explore aspects of the hypothesis.
+21. `riemann.py`: This script relates to the Riemann hypothesis, one of the most famous unsolved problems in mathematics, and contains functions to explore aspects of the hypothesis.
+22. ![riemann's hypothesis](riemann.png)
 
 ### Images
 
-The repository also includes several PNG images, each associated with a specific concept or algorithm:
+The repository also includes several PNG images, each associated with a specific concept or algorithm as displayed in above as well.
 
 1. `collatz.png`: An image representing the Collatz conjecture or its visualization.
 
