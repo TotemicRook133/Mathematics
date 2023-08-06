@@ -5,26 +5,28 @@ This repository contains various Python scripts and associated image files relat
 ### Python Scripts
 
 1. `collatz.py`: This script implements the Collatz conjecture algorithm. It takes an integer as input and applies the Collatz sequence until it reaches 1.
+2. ![collatz conjecture](collatz.png)
 
-2. `eAix.py`: This script performs some calculations related to the mathematical constant "e" raised to the power of "i * x," where "i" is the imaginary unit and "x" is a real number.
+3. `eAix.py`: This script performs some calculations related to the mathematical constant "e" raised to the power of "i * x," where "i" is the imaginary unit and "x" is a real number.
+4. ![e^ix](e^ix.png)
 
-3. `eigen.py`: This script deals with eigenvalues and eigenvectors of matrices. It computes the eigenvalues and eigenvectors of a given matrix.
+5. `eigen.py`: This script deals with eigenvalues and eigenvectors of matrices. It computes the eigenvalues and eigenvectors of a given matrix.
 
-4. `euler.py`: This script contains implementations of various algorithms related to Euler's number and Euler's formula.
+6. `euler.py`: This script contains implementations of various algorithms related to Euler's number and Euler's formula.
 
-5. `fermattheorem.py`: The script explores Fermat's Last Theorem, which states that no three positive integers a, b, and c can satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2.
+7. `fermattheorem.py`: The script explores Fermat's Last Theorem, which states that no three positive integers a, b, and c can satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2.
 
-6. `gcd.py`: This script calculates the Greatest Common Divisor (GCD) of two integers using the Euclidean algorithm.
+8. `gcd.py`: This script calculates the Greatest Common Divisor (GCD) of two integers using the Euclidean algorithm.
 
-7. `maxi.py`: This script provides functions to find the maximum element in a list of numbers.
+9. `maxi.py`: This script provides functions to find the maximum element in a list of numbers.
 
-8. `prime.py`: The script includes functions to check whether a given number is prime or not.
+10. `prime.py`: The script includes functions to check whether a given number is prime or not.
 
-9. `primefacto.py`: This script finds the prime factors of a given number.
+11. `primefacto.py`: This script finds the prime factors of a given number.
 
-10. `pytha.py`: The script deals with the Pythagorean theorem and contains functions to calculate the length of the hypotenuse or one of the other two sides of a right-angled triangle.
+12. `pytha.py`: The script deals with the Pythagorean theorem and contains functions to calculate the length of the hypotenuse or one of the other two sides of a right-angled triangle.
 
-11. `riemann.py`: This script relates to the Riemann hypothesis, one of the most famous unsolved problems in mathematics, and contains functions to explore aspects of the hypothesis.
+13. `riemann.py`: This script relates to the Riemann hypothesis, one of the most famous unsolved problems in mathematics, and contains functions to explore aspects of the hypothesis.
 
 ### Images
 
